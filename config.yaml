@@ -1,0 +1,6 @@
+create_repo:
+  - repository:
+      Github-Api-V1
+    attributes:
+      default_branch: "master"
+      description: "Repository Created via Github API with python3"
